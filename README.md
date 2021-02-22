@@ -1,3 +1,12 @@
+I have created a Clone web-app of OTT platform Netflix and deployed it with the help of Firebase.
+I have used TMDB API in order to get all the information about movies and their categories.
+I have used react-youtube package to add the "Trailer on Click" feature. 
+
+LINK: https://netflix-clone-8fafa.firebaseapp.com/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
